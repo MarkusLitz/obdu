@@ -1,0 +1,9 @@
+# Compiled binaries
+/bin/
+/dist/
+/obdu
+
+# OS & editor files
+.DS_Store
+*.swp
+*~
