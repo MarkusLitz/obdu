@@ -4,6 +4,10 @@
 
 While standard `ncdu` only sees physical files and folders, `obdu` understands the complete **Obsidian reference graph** (wikilinks, Markdown links, `./_resources/` imports, `Attachment Pilot` subfolders, `TaskPulse` YAML frontmatter tasks, `Vault Pilot` `.trash/` & bookmarks, and `Drive Embedder` external media).
 
+> [!TIP]
+> **Also available as an Obsidian Plugin!**
+> Prefer inspecting your vault directly inside Obsidian (on Desktop & Mobile)? Check out the companion Obsidian plugin edition: **[MarkusLitz/obsidian-obdu](https://github.com/MarkusLitz/obsidian-obdu)**.
+
 ![obdu Terminal Screenshot](assets/screenshot.png)
 
 ---
